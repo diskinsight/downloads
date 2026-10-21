@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.00</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>DiskInsight publisher</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description for DiskInsight, a native macOS disk analyzer and storage cleaner.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+      <Company_Name>DiskInsight</Company_Name>
+      <Address_1>Online</Address_1>
+    <Address_2 />
+      <City_Town>Online</City_Town>
+    <State_Province />
+    <Zip_Postal_Code />
+      <Country>United States</Country>
+      <Company_WebSite_URL>https://diskinsight.com</Company_WebSite_URL>
+    <Contact_Info>
+        <Author_First_Name>DiskInsight</Author_First_Name>
+        <Author_Last_Name>Team</Author_Last_Name>
+        <Author_Email>support@diskinsight.com</Author_Email>
+        <Contact_First_Name>DiskInsight</Contact_First_Name>
+        <Contact_Last_Name>Team</Contact_Last_Name>
+        <Contact_Email>support@diskinsight.com</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+        <Sales_Email>support@diskinsight.com</Sales_Email>
+        <Support_Email>support@diskinsight.com</Support_Email>
+        <General_Email>support@diskinsight.com</General_Email>
+      <Sales_Phone />
+      <Support_Phone />
+      <General_Phone />
+      <Fax_Phone />
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+      <Program_Name>DiskInsight</Program_Name>
+      <Program_Version>1.2.0</Program_Version>
+      <Program_Release_Month>10</Program_Release_Month>
+      <Program_Release_Day>21</Program_Release_Day>
+      <Program_Release_Year>2026</Program_Release_Year>
+      <Program_Cost_Dollars>9.99</Program_Cost_Dollars>
+      <Program_Cost_Other_Code>USD</Program_Cost_Other_Code>
+      <Program_Cost_Other>Free to use for scanning and analysis. Optional DiskInsight Pro one-time license: $9.99 (no subscription).</Program_Cost_Other>
+      <Program_Type>Freeware</Program_Type>
+      <Program_Release_Status>New Release</Program_Release_Status>
+      <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+      <Program_OS_Support>macOS 14 (Sonoma), macOS 15 (Sequoia), macOS 26 (Tahoe), Apple Silicon, Intel</Program_OS_Support>
+      <Program_Language>English</Program_Language>
+      <Program_Change_Info>Version 1.2.0: redesigned Settings window, live theme and palette support, release signing for smoother macOS updates, plus stability and performance improvements across all nine visualizers.</Program_Change_Info>
+      <Program_Specific_Category>System Utilities</Program_Specific_Category>
+      <Program_Category_Class>System Utilities::Disk Utilities</Program_Category_Class>
+      <Program_System_Requirements>macOS 14 (Sonoma) or later on Apple Silicon or Intel Macs. No runtime dependencies or extra software needed. To scan protected folders, grant Full Disk Access in System Settings &gt; Privacy &amp; Security.</Program_System_Requirements>
+    <File_Info>
+        <File_Size_Bytes>3328345</File_Size_Bytes>
+        <File_Size_K>3250</File_Size_K>
+        <File_Size_MB>3.17</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+        <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Count />
+        <Expire_Based_On>Other</Expire_Based_On>
+        <Expire_Other_Info>No time limit. The optional Pro unlock is a one-time purchase, not a subscription.</Expire_Other_Info>
+      <Expire_Month />
+      <Expire_Day />
+      <Expire_Year />
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+        <Keywords>disk analyzer,disk space,macos,treemap,disk usage,storage cleanup,duplicate finder,cache cleaner,app uninstaller,free space</Keywords>
+        <Char_Desc_45>Free local macOS disk analyzer and cleaner.</Char_Desc_45>
+        <Char_Desc_80>Free local macOS disk analyzer with nine visual views and a live monitor.</Char_Desc_80>
+        <Char_Desc_250>DiskInsight shows where your disk space went. Renders any drive as a treemap, sunburst or age map, with instant search, large-file lists and a live monitor. No account, no telemetry. Pro ($9.99 one-time) adds duplicate detection and a cache cleaner.</Char_Desc_250>
+        <Char_Desc_450>DiskInsight shows exactly where your disk space went. It renders any drive as a treemap, sunburst, flame graph, bubbles, mind map or age map, so you can see which folders and files filled your disk.
+
+Free: all nine visualizers, instant search, large-file lists and a live monitor.
+
+Pro is a one-time $9.99 unlock (no subscription) adding duplicate detection, a developer cache cleaner and an app uninstaller.
+
+Runs locally, no account, no telemetry.</Char_Desc_450>
+        <Char_Desc_2000>DiskInsight shows exactly where your disk space went.
+
+It renders any drive as a treemap, sunburst, flame graph, bubbles, mind map or age map, so you can see at a glance which folders and files are responsible for a full disk. Instant search filters every view, the large-files list points straight at the biggest offenders, and a live monitor keeps an eye on free space while you work.
+
+Free features:
+- Nine visualizers: treemap, sunburst, flame, bubbles, mind map, age map, top sizes, list, folders
+- Instant search across the whole disk
+- Large-file and old-file lists
+- Live system monitor with free-space alerts
+- Quick Wins report with the biggest reclaimable items
+
+DiskInsight Pro is a one-time $9.99 unlock (no subscription) that adds cleanup tools:
+- Content-hash duplicate detection
+- Developer cache cleaner (Xcode DerivedData, npm, CocoaPods, Gradle)
+- Complete app uninstaller
+
+Everything runs locally. DiskInsight does not upload file names, folder structures or usage data anywhere, and it works without an account.
+
+Typical uses: finding what filled your drive after a big Photos or Xcode import, spotting duplicate downloads, clearing node_modules and DerivedData caches, and uninstalling apps you no longer use together with their leftovers.
+
+Requirements: macOS 14 (Sonoma) or later on Apple Silicon or Intel Macs. Full Disk Access is needed only to scan protected folders, and the app explains every permission it asks for.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+        <Application_Info_URL>https://diskinsight.com</Application_Info_URL>
+        <Application_Order_URL>https://diskinsight.com/pricing</Application_Order_URL>
+        <Application_Screenshot_URL>https://diskinsight.com/img/screens/treemap.png</Application_Screenshot_URL>
+        <Application_Icon_URL>https://diskinsight.com/icon-32.png</Application_Icon_URL>
+        <Application_XML_File_URL>https://diskinsight.com/diskinsight.pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+        <Primary_Download_URL>https://diskinsight.com/downloads/DiskInsight-1.2.0.dmg</Primary_Download_URL>
+        <Secondary_Download_URL>https://github.com/diskinsight/downloads/releases/download/v1.2.0/DiskInsight-1.2.0.dmg</Secondary_Download_URL>
+        <Additional_Download_URL_1>https://diskinsight.com/downloads/DiskInsight-1.2.0.dmg</Additional_Download_URL_1>
+        <Additional_Download_URL_2>https://github.com/diskinsight/downloads/releases/download/v1.2.0/DiskInsight-1.2.0.dmg</Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+      <Distribution_Permissions>Free to distribute. The optional Pro features are unlocked with a one-time license key.</Distribution_Permissions>
+      <EULA>https://diskinsight.com/terms</EULA>
+  </Permissions>
+</XML_DIZ_INFO>
